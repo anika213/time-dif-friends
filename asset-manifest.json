@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/time-dif-friends/static/css/main.aaccb06b.css",
+    "main.js": "/time-dif-friends/static/js/main.d9427c7b.js",
+    "static/js/453.02dd34ff.chunk.js": "/time-dif-friends/static/js/453.02dd34ff.chunk.js",
+    "static/media/pic4.png": "/time-dif-friends/static/media/pic4.c5eea5b5733e956536da.png",
+    "static/media/pic7.png": "/time-dif-friends/static/media/pic7.221f779d4051fdb8698e.png",
+    "static/media/pic5.png": "/time-dif-friends/static/media/pic5.6d8ba544e01b33b24fb4.png",
+    "static/media/pic6.png": "/time-dif-friends/static/media/pic6.1472bd8ba0bfef976dbf.png",
+    "static/media/pic3.png": "/time-dif-friends/static/media/pic3.a6e116e441e706f00d02.png",
+    "static/media/pic1.jpg": "/time-dif-friends/static/media/pic1.91456145aa210eacd968.jpg",
+    "static/media/pic2.jpg": "/time-dif-friends/static/media/pic2.616ae767b4d76bece53b.jpg",
+    "index.html": "/time-dif-friends/index.html",
+    "main.aaccb06b.css.map": "/time-dif-friends/static/css/main.aaccb06b.css.map",
+    "main.d9427c7b.js.map": "/time-dif-friends/static/js/main.d9427c7b.js.map",
+    "453.02dd34ff.chunk.js.map": "/time-dif-friends/static/js/453.02dd34ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaccb06b.css",
+    "static/js/main.d9427c7b.js"
+  ]
+}
