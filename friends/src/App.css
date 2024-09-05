@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dropdown-container, .time-input-container {
+  margin: 20px;
+}
+
+label {
+  font-size: 1.2em;
+  margin-right: 10px;
+}
+
+select, input[type="time"] {
+  padding: 8px;
+  font-size: 1em;
+  margin-left: 10px;
+}
+
+.calculate-button {
+  margin: 20px;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.calculate-button:hover {
+  background-color: #45a049;
+}
+
+.pics img {
+  width: 40%;              /* Ensures that images are responsive within their flex item */
+  max-width: 150px;          /* Maximum width of each image */
+  height: auto;             /* Ensures images maintain their aspect ratio */
+}
+.pics {
+  display: flex;
+  justify-content: center;  /* Centers images horizontally */
+  align-items: center;      /* Aligns images vertically (if varying heights) */
+  flex-wrap: wrap;          /* Allows images to wrap onto the next row if the container width is exceeded */
+  width: 100%;               /* Width of the container */
+  margin: 0 auto;           /* Centers the container */
+  gap: 10px;                /* Adds space between images */
+}
+.result-container {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.1em;
+  margin: 5px 0;
+}
